@@ -1,12 +1,57 @@
-## 🌱 About me
+## 🗿 About me
 - I'm a two-year master's student from [Intelligent Information Processing Innovation Team](https://xxgcxy.hist.edu.cn/znxxclcxxz/zyjs.htm), [Henan Institute of Science and Technology](https://www.hist.edu.cn/). My research interest includes deep learning, remote sensing, and hyperspectral.
 
 - I am very fortunate to be advised by [Prof. Jinliang An](https://xxgcxy.hist.edu.cn/info/1480/8996.htm).
 
-## 📫 Contact me
+## 📧 Contact me
 
 - dailonglong@stu.hist.edu.cn
 
-## 📫 Contact me
+## ⛺️ Contact me
 
-- <a href="https://info.flagcounter.com/suPC"><img src="https://s01.flagcounter.com/countxl/suPC/bg_FFF2E6/txt_000000/border_CCC2B1/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/suPC"><img src="https://s01.flagcounter.com/countxl/suPC/bg_FFF2E6/txt_000000/border_CCC2B1/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
+# Hi, I'm Kiko7i 👻
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5555&width=435&lines=Status%3A+Loading...;Error+404%3A+Brain+not+found.;Sentient+Potato+in+progress...;Welcome+to+my+digital+swamp." alt="Typing SVG" />
+</p>
+
+---
+
+### 🛠️ About Me (The Glitch)
+
+* **Current State:** 🔄 Still loading my personality... 99% complete.
+* **Specialty:** Professional overthinker and master of doing nothing.
+* **Fuel:** ☕ 80% Coffee, 20% Panic.
+* **Goal:** To become a billionaire or a professional cat, whichever comes first.
+
+---
+
+### 📊 System Diagnostics
+
+<p align="left">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKiko7i%2FKiko7i&count_bg=%23FF5555&title_bg=%23555555&icon=ghost.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitors" />
+</p>
+
+#### 🌍 Global Stalkers (Country Counter)
+| Who's watching me? |
+| :--- |
+| [![Flag Counter](https://s11.flagcounter.com/count2/P3fC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/)](https://info.flagcounter.com/P3fC) |
+
+---
+
+### ⌨️ Tech Stack (Or things I've Googled)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,github,vscode,linux&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpxxcaOXYT2U/giphy.gif" width="200" />
+  <br>
+  <i>"Don't follow me, I'm lost too."</i>
+</p>
