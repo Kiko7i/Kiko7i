@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kiko7i%20is%20Loading...&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Access%20Granted&fontSize=60&fontAlignY=35" width="100%" />
 </p>
 
 ## 🗿 About Me
@@ -19,18 +19,10 @@
 | :--- |
 | <a href="https://info.flagcounter.com/suPC"><img src="https://s01.flagcounter.com/countxl/suPC/bg_FFF2E6/txt_000000/border_CCC2B1/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>|
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/7NoNw4pMNTvgc/giphy.gif" width="250" />
   <br>
   <i>"Brain execution error. Please restart the human."</i>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/13fTar4VVaFlG8/giphy.gif" width="180" />
-  <br>
-  <i>"No thoughts, just vibes."</i>
-</p>
-
-
-
