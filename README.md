@@ -17,7 +17,9 @@
 ## 🌍 Global Stalkers
 | Who's watching me? |
 | :--- |
-| <a href="https://info.flagcounter.com/suPC"><img src="https://s01.flagcounter.com/countxl/suPC/bg_FFF2E6/txt_000000/border_CCC2B1/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>|
+| <a href="https://info.flagcounter.com/zgFR"><img src="https://s05.flagcounter.com/countxl/zgFR/bg_FFF2E6/txt_0D111/border_CCCCCC/columns_4/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>|
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
