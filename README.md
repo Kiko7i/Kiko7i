@@ -19,18 +19,11 @@
 
 ---
 
-### 📊 System Diagnostics
-
-<p align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKiko7i%2FKiko7i&count_bg=%23FF5555&title_bg=%23555555&icon=ghost.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitors" />
-</p>
-
-#### 🌍 Global Stalkers (Country Counter)
+### 🌍 Global Stalkers
 | Who's watching me? |
 | :--- |
 | <a href="https://info.flagcounter.com/suPC"><img src="https://s01.flagcounter.com/countxl/suPC/bg_FFF2E6/txt_000000/border_CCC2B1/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>|
 
-<a href="https://info.flagcounter.com/suPC"><img src="https://s01.flagcounter.com/countxl/suPC/bg_FFF2E6/txt_000000/border_CCC2B1/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ---
 
