@@ -1,8 +1,3 @@
-## ⛺️ Contact me
-
-<a href="https://info.flagcounter.com/suPC"><img src="https://s01.flagcounter.com/countxl/suPC/bg_FFF2E6/txt_000000/border_CCC2B1/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
 # Hi, I'm Kiko7i 👻
 
 <p align="left">
@@ -33,7 +28,7 @@
 #### 🌍 Global Stalkers (Country Counter)
 | Who's watching me? |
 | :--- |
-| [![Flag Counter](https://s11.flagcounter.com/count2/P3fC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/)](https://info.flagcounter.com/P3fC) |
+| <a href="https://info.flagcounter.com/suPC"><img src="https://s01.flagcounter.com/countxl/suPC/bg_FFF2E6/txt_000000/border_CCC2B1/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>|
 
 <a href="https://info.flagcounter.com/suPC"><img src="https://s01.flagcounter.com/countxl/suPC/bg_FFF2E6/txt_000000/border_CCC2B1/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
