@@ -20,12 +20,16 @@
 
 ---
 
-### 🛠️ About Me (The Glitch)
+### 🗿 About Me
 
-* **Current State:** 🔄 Still loading my personality... 99% complete.
+* I'm a two-year master's student from [Intelligent Information Processing Innovation Team](https://xxgcxy.hist.edu.cn/znxxclcxxz/zyjs.htm), [Henan Institute of Science and Technology](https://www.hist.edu.cn/). My research interest includes deep learning, remote sensing, and hyperspectral.
 * **Specialty:** Professional overthinker and master of doing nothing.
 * **Fuel:** ☕ 80% Coffee, 20% Panic.
 * **Goal:** To become a billionaire or a professional cat, whichever comes first.
+
+- I'm a two-year master's student from [Intelligent Information Processing Innovation Team](https://xxgcxy.hist.edu.cn/znxxclcxxz/zyjs.htm), [Henan Institute of Science and Technology](https://www.hist.edu.cn/). My research interest includes deep learning, remote sensing, and hyperspectral.
+
+- I am very fortunate to be advised by [Prof. Jinliang An](https://xxgcxy.hist.edu.cn/info/1480/8996.htm).
 
 ---
 
