@@ -21,7 +21,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/7NoNw4pMNTvgc/giphy.gif" width="250" />
