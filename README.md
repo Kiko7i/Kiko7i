@@ -12,7 +12,7 @@
 
 ## 🌷 Contact me
 
-- If you have any questions about my projects, please feel free to [send me an email](dailonglong@stu.hist.edu.cn).
+- If you have any questions about my projects, please feel free to [send me an email](mailto:dailonglong@stu.hist.edu.cn).
 
 
   
