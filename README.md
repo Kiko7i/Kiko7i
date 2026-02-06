@@ -4,7 +4,7 @@
 
 ## 🌱 About Me
 
-* I'm Longlong Dai|代龙龙, a two-year master's student from [Intelligent Information Processing Innovation Team](https://xxgcxy.hist.edu.cn/znxxclcxxz/zyjs.htm), [Henan Institute of Science and Technology](https://www.hist.edu.cn/).
+* I'm [Longlong Dai](https://kiko7i.github.io/LonglongDai/), a two-year master's student from [Intelligent Information Processing Innovation Team](https://xxgcxy.hist.edu.cn/znxxclcxxz/zyjs.htm), [Henan Institute of Science and Technology](https://www.hist.edu.cn/).
 * I am very fortunate to be advised by [Prof. Jinliang An](https://xxgcxy.hist.edu.cn/info/1480/8996.htm).
 * My research interest includes deep learning, remote sensing, and hyperspectral.
 
