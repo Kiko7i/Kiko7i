@@ -1,7 +1,3 @@
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thank%20You%20For%20Your%20Visit&fontSize=60&fontAlignY=35" width="100%" />
-</p> -->
-
 <div align="center" style="position:relative; width:100%;">
   <img src="https://raw.githubusercontent.com/Kiko7i/Kiko7i/main/head.svg" style="width:100%; max-width:920px; display:block;">
 </div>
