@@ -1,5 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thank%20You%20For%20Your%20Visit&fontSize=60&fontAlignY=35" width="100%" />
+</p> -->
+
+<p align="center"> 
+  <img src="https://img.shields.io/github/followers/Kiko7i?label=Followers" alt="github follow" />
+  <img src="https://komarev.com/ghpvc/?username=Kiko7i" alt="profile views" /> 
 </p>
 
 ## 🌱 About Me
