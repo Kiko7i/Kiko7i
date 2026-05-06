@@ -1,6 +1,7 @@
 <div align="center" style="position:relative; width:100%;">
   <img src="https://raw.githubusercontent.com/Kiko7i/Kiko7i/main/head.svg" style="width:100%; max-width:920px; display:block;">
 </div>
+<br>
 
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/Kiko7i?label=Followers" alt="github follow" />
